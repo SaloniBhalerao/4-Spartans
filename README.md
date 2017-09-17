@@ -1,2 +1,2 @@
-# 4-Spartans
-# Saloni's Repository for projects
+# ms-projects
+# Saloni's Repository for master's projects
